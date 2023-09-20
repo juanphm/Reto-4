@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Triqui_v1_app</string>
+    <string name="new_game">New/Again</string>
+    <string name="menu">menu</string>
+    <string name="diff">Dificultad</string>
+    <string name="easy">Facil</string>
+    <string name="no">Dificil</string>
+    <string name="mal">Extremo</string>
+    <string name="x">Quit</string>
+    <string name="quit_question">¿Ya te vas?</string>
+</resources>
